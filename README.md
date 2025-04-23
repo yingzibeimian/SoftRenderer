@@ -4,7 +4,7 @@
 开发环境:Windows 10 - Microsoft Visual Studio 2022 17.3.5  
   
 **软渲染器(SoftwareRenderer)**，即依靠软件驱动，不使用图形硬件加速的渲染器。  
-本项目的初衷只是作者为了加深对GPU工作原理的理解。  
+本项目的初衷只是作者为了加深对渲染过程中的GPU工作原理的理解。  
 
 ![](https://github.com/yingzibeimian/SoftRenderer/blob/main/README%20IMG/SoftwareRenderer_Phong.png)
 
