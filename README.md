@@ -6,6 +6,8 @@
 **软渲染器(SoftwareRenderer)**，即依靠软件驱动，不使用图形硬件加速的渲染器。  
 本项目的初衷只是作者为了加深对GPU工作原理的理解。  
 
+![](https://github.com/yingzibeimian/SoftRenderer/blob/main/README%20IMG/SoftwareRenderer_Phong.png)
+
 ## References
 * [TinyRenderer](https://github.com/ssloy/tinyrenderer)
 * [GAMES101-现代计算机图形学入门](https://www.bilibili.com/video/BV1X7411F744/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=6d25dd29784774a680f10af30c51bfed)
