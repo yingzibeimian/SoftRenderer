@@ -33,13 +33,9 @@
 
 # Custom
 *.tga
-*.sln
-.vs/
+Assets/
 Debug/
 x64/
-SoftwareRenderer/obj/
-SoftwareRenderer/Debug/
-SoftwareRenderer/x64/
-SoftwareRenderer/SoftwareRenderer.vcxproj
-SoftwareRenderer/SoftwareRenderer.vcxproj.filters
-SoftwareRenderer/SoftwareRenderer.vcxproj.user
+SoftwareRenderer.vcxproj
+SoftwareRenderer.vcxproj.filters
+SoftwareRenderer.vcxproj.user
